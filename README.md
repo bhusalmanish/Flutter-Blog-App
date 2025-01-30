@@ -1,16 +1,2 @@
-# journo_blog
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter-Blog-App
+Journo Blog App is a comprehensive Flutter application designed for users to seamlessly perform all CRUD (Create, Read, Update, Delete) functions within the app. It features a secure login and signup system, ensuring user authentication and authorization. Additionally, the app facilitates data interaction by enabling users to upload, modify, retrieve, and delete content through RESTful API calls, providing a dynamic and user-friendly environment for managing blog posts.
